@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\JsonWriteDoc\\JsonWriteDoc.csproj": {}
+    "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\SaveLocal\\JsonWriteDoc\\JsonWriteDoc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\JsonWriteDoc\\JsonWriteDoc.csproj": {
+    "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\SaveLocal\\JsonWriteDoc\\JsonWriteDoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\JsonWriteDoc\\JsonWriteDoc.csproj",
+        "projectUniqueName": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\SaveLocal\\JsonWriteDoc\\JsonWriteDoc.csproj",
         "projectName": "JsonWriteDoc",
-        "projectPath": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\JsonWriteDoc\\JsonWriteDoc.csproj",
+        "projectPath": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\SaveLocal\\JsonWriteDoc\\JsonWriteDoc.csproj",
         "packagesPath": "C:\\Users\\BStorm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\JsonWriteDoc\\obj\\",
+        "outputPath": "C:\\Users\\BStorm\\source\\repos\\JsonWriteDoc\\SaveLocal\\JsonWriteDoc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BStorm\\AppData\\Roaming\\NuGet\\NuGet.Config",

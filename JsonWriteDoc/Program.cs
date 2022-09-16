@@ -6,6 +6,9 @@ List<User> users = new List<User>();
 
 users = Sauvegarde.LoadData();
 
-Console.WriteLine(users[2].Name);
+
+//Console.WriteLine(users[users.Count -1].Name + " " + users[users.Count -1].Pseudo);
+
+
 
 
