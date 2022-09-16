@@ -1,0 +1,15 @@
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\bin\Debug\net6.0\JsonWriteDoc.exe
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\bin\Debug\net6.0\JsonWriteDoc.deps.json
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\bin\Debug\net6.0\JsonWriteDoc.runtimeconfig.json
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\bin\Debug\net6.0\JsonWriteDoc.dll
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\bin\Debug\net6.0\JsonWriteDoc.pdb
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.csproj.AssemblyReference.cache
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.AssemblyInfoInputs.cache
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.AssemblyInfo.cs
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.csproj.CoreCompileInputs.cache
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.dll
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\refint\JsonWriteDoc.dll
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.pdb
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\JsonWriteDoc.genruntimeconfig.cache
+C:\Users\BStorm\source\repos\JsonWriteDoc\JsonWriteDoc\obj\Debug\net6.0\ref\JsonWriteDoc.dll
